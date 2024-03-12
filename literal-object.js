@@ -4,5 +4,5 @@ let person = {
     sex : "F"
 }
 
-console.log(`Name: ${person.name}, Age: ${person.age} ` + 
+console.log(`Name: ${person.name}, Age: ${person.age}, ` + 
     `Sex: ${person.sex}`);
